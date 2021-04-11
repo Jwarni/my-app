@@ -1,9 +1,9 @@
-import React from 'react';
+import React from 'react'
 
 
-function HelloWorld () {
+function HelloWorld (props) {
     return (
-        <h1> Hellow Jeevesh !! </h1>
+    <h1> Hellow {props.name} !! </h1>
 
     );
 }
