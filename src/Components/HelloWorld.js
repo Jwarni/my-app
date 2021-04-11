@@ -7,4 +7,4 @@ function HelloWorld () {
 
     );
 }
-export default HellowWorld;
+export default HelloWorld;
