@@ -3,8 +3,9 @@ function Counter (){
     const [count, setCount ]= useState(0)
 
     return (
-        <div>  <p> count {count}</p>
-        
+        <div>  <h1> count {count}</h1>
+        <h1 onClick={setCount(count+1)}> Plus</h1>
+        <h1 onClick ={setCount(count-1)}> Minus</h1>
         </div>
     )
 
