@@ -5,6 +5,10 @@ function App() {
   return (
     <div >
      <HelloWorld name="jai" />
+
+     <p>
+     <HelloWorld name="Jeevan" />
+        </p>
     </div>
   );
 }
