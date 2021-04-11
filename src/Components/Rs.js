@@ -1,7 +1,12 @@
 import React from 'react'
 
 function Rs(props){
-    return <h3> props.split("").reverse().join(""); </h3>
+    return <p> 
+        var splitString = props.split("");
+        var reverseArray = splitString.reverse();
+        var joinArray = reverseArray.join();
+        return joinArray;
+</p>
 
 
 }
