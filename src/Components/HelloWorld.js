@@ -1,7 +1,7 @@
-import React from 'react'
+import React from 'react';
 
 
-function HelloWorld() {
+function HelloWorld () {
     return (
         <h1> Hellow world !! </h1>
 
