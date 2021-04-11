@@ -18,7 +18,7 @@ function App() {
           Learn React
          
         </a>
-        <p> Changes are made  </p>
+        <p> New changes are made  </p>
       </header>
     </div>
   );
