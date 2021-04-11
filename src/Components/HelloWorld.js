@@ -5,6 +5,6 @@ function HelloWorld() {
     return (
         <h1> Hellow world !! </h1>
 
-    )
+    );
 }
-export default HellowWorld 
+export default HellowWorld;
